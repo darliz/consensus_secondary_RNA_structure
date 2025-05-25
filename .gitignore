@@ -1,2 +1,10 @@
 venv/
-RESULT/
+RESULT_human/
+RESULT_gallus/
+RESULT_hydra/
+consensus_structure.csv
+consensus.ct
+consensus.dot
+reciprocity_log.txt
+scores.csv
+tie_log.txt
