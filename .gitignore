@@ -8,3 +8,6 @@ consensus.dot
 reciprocity_log.txt
 scores.csv
 tie_log.txt
+input/
+output/
+img/
